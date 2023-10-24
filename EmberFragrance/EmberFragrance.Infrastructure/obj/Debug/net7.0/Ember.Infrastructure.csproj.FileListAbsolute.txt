@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\New folder\EmberFrangrance\EmberFragrance.Infrastructure\bin\Debug\net7.0\Ember.Infrastructure.deps.json
+C:\Users\user\Desktop\New folder\EmberFrangrance\EmberFragrance.Infrastructure\bin\Debug\net7.0\Ember.Infrastructure.runtimeconfig.json
+C:\Users\user\Desktop\New folder\EmberFrangrance\EmberFragrance.Infrastructure\bin\Debug\net7.0\Ember.Infrastructure.dll
+C:\Users\user\Desktop\New folder\EmberFrangrance\EmberFragrance.Infrastructure\bin\Debug\net7.0\Ember.Infrastructure.pdb
+C:\Users\user\Desktop\New folder\EmberFrangrance\EmberFragrance.Infrastructure\bin\Debug\net7.0\Ember.Domain.dll
+C:\Users\user\Desktop\New folder\EmberFrangrance\EmberFragrance.Infrastructure\bin\Debug\net7.0\Ember.Domain.pdb
+C:\Users\user\Desktop\New folder\EmberFrangrance\EmberFragrance.Infrastructure\obj\Debug\net7.0\Ember.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\New folder\EmberFrangrance\EmberFragrance.Infrastructure\obj\Debug\net7.0\Ember.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\New folder\EmberFrangrance\EmberFragrance.Infrastructure\obj\Debug\net7.0\Ember.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\New folder\EmberFrangrance\EmberFragrance.Infrastructure\obj\Debug\net7.0\Ember.Infrastructure.AssemblyInfo.cs
+C:\Users\user\Desktop\New folder\EmberFrangrance\EmberFragrance.Infrastructure\obj\Debug\net7.0\Ember.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\New folder\EmberFrangrance\EmberFragrance.Infrastructure\obj\Debug\net7.0\Ember.Infrastructure.csproj.CopyComplete
+C:\Users\user\Desktop\New folder\EmberFrangrance\EmberFragrance.Infrastructure\obj\Debug\net7.0\Ember.Infrastructure.dll
+C:\Users\user\Desktop\New folder\EmberFrangrance\EmberFragrance.Infrastructure\obj\Debug\net7.0\refint\Ember.Infrastructure.dll
+C:\Users\user\Desktop\New folder\EmberFrangrance\EmberFragrance.Infrastructure\obj\Debug\net7.0\Ember.Infrastructure.pdb
+C:\Users\user\Desktop\New folder\EmberFrangrance\EmberFragrance.Infrastructure\obj\Debug\net7.0\Ember.Infrastructure.genruntimeconfig.cache
+C:\Users\user\Desktop\New folder\EmberFrangrance\EmberFragrance.Infrastructure\obj\Debug\net7.0\ref\Ember.Infrastructure.dll
