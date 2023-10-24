@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8/7pJA9u/kMKpVNy8JtNfqdWpYLYwSknPhd+h78b6S3Oq14W8EoVG4ZMc6ktV8rbe8lq9waBuQXVfaS4p0j4Gw==",
+  "dgSpecHash": "eEmOdf8Zb4ilUCkaUyTSTg8yR+o2rLjkyfJAgVXPSUgqNnoweqlEtY8JIv1vci0ApaBZQV1doRcpwQ3aaPWi5w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\New folder\\EmberFrangrance\\EmberFragrance.Infrastructure\\Ember.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Personal-projects\\EmberFragrance\\EmberFragrance\\EmberFragrance.Infrastructure\\Ember.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

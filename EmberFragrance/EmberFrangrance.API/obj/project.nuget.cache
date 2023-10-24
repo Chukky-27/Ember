@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dwLGTBWRxr20+lsJ27PGFKp48xtIRrvGK0nugwGiQTwQqDrxBiz/8Exbeia75Sw7SYGRbSwSqb17XcTNdLw4xQ==",
+  "dgSpecHash": "6nXivKzAnLKRmxjZN+uftyk/YnOB1zIpFumlX8JxctKyRJs4aBWnO9aT/vmEm658io7cYJ+cJjKpyvCU0xTaYQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\New folder\\EmberFrangrance\\EmberFrangrance.API\\Ember.API.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Personal-projects\\EmberFragrance\\EmberFragrance\\EmberFrangrance.API\\Ember.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

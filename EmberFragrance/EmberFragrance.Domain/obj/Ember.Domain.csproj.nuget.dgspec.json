@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\New folder\\EmberFrangrance\\EmberFragrance.Domain\\Ember.Domain.csproj": {}
+    "C:\\Users\\user\\Desktop\\Personal-projects\\EmberFragrance\\EmberFragrance\\EmberFragrance.Domain\\Ember.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\New folder\\EmberFrangrance\\EmberFragrance.Domain\\Ember.Domain.csproj": {
+    "C:\\Users\\user\\Desktop\\Personal-projects\\EmberFragrance\\EmberFragrance\\EmberFragrance.Domain\\Ember.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\New folder\\EmberFrangrance\\EmberFragrance.Domain\\Ember.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Personal-projects\\EmberFragrance\\EmberFragrance\\EmberFragrance.Domain\\Ember.Domain.csproj",
         "projectName": "Ember.Domain",
-        "projectPath": "C:\\Users\\user\\Desktop\\New folder\\EmberFrangrance\\EmberFragrance.Domain\\Ember.Domain.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\Personal-projects\\EmberFragrance\\EmberFragrance\\EmberFragrance.Domain\\Ember.Domain.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\New folder\\EmberFrangrance\\EmberFragrance.Domain\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Personal-projects\\EmberFragrance\\EmberFragrance\\EmberFragrance.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
