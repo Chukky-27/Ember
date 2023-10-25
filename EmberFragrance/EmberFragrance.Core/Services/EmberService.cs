@@ -1,6 +1,7 @@
 ﻿using Ember.Core.IServices;
 using Ember.Domain.Model;
 using Ember.Infrastructure;
+using Ember.Infrastructure.DTO;
 using Microsoft.EntityFrameworkCore;
 
 namespace Ember.Core.Services
@@ -14,41 +15,95 @@ namespace Ember.Core.Services
             this.dbContext = dbContext;
         }
 
-        public async Task<Fragrance>CreateAsync(Fragrance fragrance)
+        public async Task<string> CreateFragranceAsync(FragranceDTO fragranceDTO)
         {
-            await dbContext.Fragrances.AddAsync(fragrance);
-            await dbContext.SaveChangesAsync();
+            //await dbContext.Fragrances.AddAsync(fragrance);
+            //await dbContext.SaveChangesAsync();
 
-            return fragrance;
+            //return fragrance;
+            try
+            {
+                var fragrance = new Fragrance()
+                {
+                    Name = fragranceDTO.Name,
+                    Id = fragranceDTO.Id,
+                    IsDeleted = false,
+                    CreatedAt = DateTime.UtcNow,
+                    UpdatedAt = DateTime.UtcNow,
+                    Preference = fragranceDTO.Preference,
+                    Intensity = fragranceDTO.Intensity,
+                    Brand = fragranceDTO.Brand,
+                    Price = fragranceDTO.Price,
+                    Type = fragranceDTO.Type,
+                };
+                await dbContext.Fragrances.AddAsync(fragrance);
+                await dbContext.SaveChangesAsync();
+                return $"{fragranceDTO.Name} Order placed successfully";
+            }
+            catch (Exception ex)
+            {
+                throw new Exception(ex. Message );
+            }
         }
 
         public async Task<List<Fragrance>> GetAllAsync()
         {
             return await dbContext.Fragrances.ToListAsync();
         }
-
-        public async Task<Fragrance>GetIdAsync(string id)
-        {
-            return await dbContext.Fragrances.FirstOrDefaultAsync(j=>j.Id==id);
-        }
         
-        public async Task<Fragrance?> UpdateAsync(string id, Fragrance fragrance)
+        public async Task<string> UpdateByIdAsync(string userId, FragranceDTO fragranceDTO)
         {
-            var exisitingFragrance = await dbContext.Fragrances.FirstOrDefaultAsync(b=>b.Id==id);
-            if(exisitingFragrance == null)
+            var exisitingFragrance = await dbContext.Fragrances.FirstOrDefaultAsync(b=>b.Id==userId);
+            if( exisitingFragrance == null)
             {
-                return null;
+                throw new Exception($"{userId} does not exist");
             }
-            exisitingFragrance.Id = id;
-            exisitingFragrance.Brand = fragrance.Brand;
-            exisitingFragrance.Price = fragrance.Price;
-            exisitingFragrance.Intensity = fragrance.Intensity;
-            exisitingFragrance.Description = fragrance.Description;
-            exisitingFragrance.Preference = fragrance.Preference;
-            exisitingFragrance.Type = fragrance.Type;
-            exisitingFragrance.VolumeInMilliliters = fragrance.VolumeInMilliliters;
+            exisitingFragrance.Name = exisitingFragrance.Name;
+            exisitingFragrance.Brand = exisitingFragrance.Brand;
+            exisitingFragrance.Description = exisitingFragrance.Description;
+            exisitingFragrance.Price = exisitingFragrance.Price;
+            exisitingFragrance.Intensity = exisitingFragrance.Intensity;
+            exisitingFragrance.Preference = exisitingFragrance.Preference;
+
+            var output =  dbContext.Fragrances.Update(exisitingFragrance);
             await dbContext.SaveChangesAsync();
-            return exisitingFragrance;
+            return "Frangrance updated successfully";
+
+           
         }
+
+        public async Task<Fragrance> GetFragranceByIdAsync(string UserId)
+        {
+            try
+            {
+                var fragrance = await dbContext.Fragrances.FirstOrDefaultAsync(b => b.Id == UserId);
+                return fragrance ?? throw new InvalidOperationException("user not found");
+            }
+            catch (Exception ex)
+            {
+                throw new InvalidOperationException(ex.Message);
+            }
+        }
+
+        public async Task<string> DeleteFragranceByIdAsync(string userId)
+        {
+            try
+            {
+                var result = await dbContext.Fragrances.FirstOrDefaultAsync(x=>x.Id == userId);
+                if(result == null)
+                {
+                    return $"{userId} not found";
+                }
+                dbContext.Fragrances.Remove(result);
+                await dbContext.SaveChangesAsync();
+                return $"{userId} deleted succesfully";
+            }
+            catch (Exception ex)
+            {
+                throw new InvalidOperationException(ex.Message);
+            }
+        }
+
+       
     }
 }

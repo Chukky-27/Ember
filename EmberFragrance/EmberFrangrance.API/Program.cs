@@ -24,7 +24,7 @@ namespace EmberFrangrance.API
 
             builder.Services.AddScoped<IEmberService, EmberService>();
 
-            builder.Services.AddAutoMapper(typeof(AutoMapperProfiles));
+           // builder.Services.AddAutoMapper(typeof(AutoMapperProfiles));
 
             var app = builder.Build();
 
