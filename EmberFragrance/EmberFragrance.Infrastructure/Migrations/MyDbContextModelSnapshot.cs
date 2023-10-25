@@ -24,11 +24,8 @@ namespace Ember.Infrastructure.Migrations
 
             modelBuilder.Entity("Ember.Domain.Model.Fragrance", b =>
                 {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+                    b.Property<string>("Id")
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("Brand")
                         .HasColumnType("nvarchar(max)");

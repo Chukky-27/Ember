@@ -12,3 +12,17 @@ C:\Users\user\Desktop\New folder\EmberFrangrance\EmberFragrance.Domain\obj\Debug
 C:\Users\user\Desktop\New folder\EmberFrangrance\EmberFragrance.Domain\obj\Debug\net7.0\Ember.Domain.pdb
 C:\Users\user\Desktop\New folder\EmberFrangrance\EmberFragrance.Domain\obj\Debug\net7.0\Ember.Domain.genruntimeconfig.cache
 C:\Users\user\Desktop\New folder\EmberFrangrance\EmberFragrance.Domain\obj\Debug\net7.0\ref\Ember.Domain.dll
+C:\Users\user\Desktop\Personal-projects\EmberFragrance\EmberFragrance\EmberFragrance.Domain\bin\Debug\net7.0\Ember.Domain.deps.json
+C:\Users\user\Desktop\Personal-projects\EmberFragrance\EmberFragrance\EmberFragrance.Domain\bin\Debug\net7.0\Ember.Domain.runtimeconfig.json
+C:\Users\user\Desktop\Personal-projects\EmberFragrance\EmberFragrance\EmberFragrance.Domain\bin\Debug\net7.0\Ember.Domain.dll
+C:\Users\user\Desktop\Personal-projects\EmberFragrance\EmberFragrance\EmberFragrance.Domain\bin\Debug\net7.0\Ember.Domain.pdb
+C:\Users\user\Desktop\Personal-projects\EmberFragrance\EmberFragrance\EmberFragrance.Domain\obj\Debug\net7.0\Ember.Domain.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Personal-projects\EmberFragrance\EmberFragrance\EmberFragrance.Domain\obj\Debug\net7.0\Ember.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Personal-projects\EmberFragrance\EmberFragrance\EmberFragrance.Domain\obj\Debug\net7.0\Ember.Domain.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Personal-projects\EmberFragrance\EmberFragrance\EmberFragrance.Domain\obj\Debug\net7.0\Ember.Domain.AssemblyInfo.cs
+C:\Users\user\Desktop\Personal-projects\EmberFragrance\EmberFragrance\EmberFragrance.Domain\obj\Debug\net7.0\Ember.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Personal-projects\EmberFragrance\EmberFragrance\EmberFragrance.Domain\obj\Debug\net7.0\Ember.Domain.dll
+C:\Users\user\Desktop\Personal-projects\EmberFragrance\EmberFragrance\EmberFragrance.Domain\obj\Debug\net7.0\refint\Ember.Domain.dll
+C:\Users\user\Desktop\Personal-projects\EmberFragrance\EmberFragrance\EmberFragrance.Domain\obj\Debug\net7.0\Ember.Domain.pdb
+C:\Users\user\Desktop\Personal-projects\EmberFragrance\EmberFragrance\EmberFragrance.Domain\obj\Debug\net7.0\Ember.Domain.genruntimeconfig.cache
+C:\Users\user\Desktop\Personal-projects\EmberFragrance\EmberFragrance\EmberFragrance.Domain\obj\Debug\net7.0\ref\Ember.Domain.dll

@@ -17,3 +17,22 @@ C:\Users\user\Desktop\New folder\EmberFrangrance\EmberFragrance.Core\obj\Debug\n
 C:\Users\user\Desktop\New folder\EmberFrangrance\EmberFragrance.Core\obj\Debug\net7.0\Ember.Core.pdb
 C:\Users\user\Desktop\New folder\EmberFrangrance\EmberFragrance.Core\obj\Debug\net7.0\Ember.Core.genruntimeconfig.cache
 C:\Users\user\Desktop\New folder\EmberFrangrance\EmberFragrance.Core\obj\Debug\net7.0\ref\Ember.Core.dll
+C:\Users\user\Desktop\Personal-projects\EmberFragrance\EmberFragrance\EmberFragrance.Core\bin\Debug\net7.0\Ember.Core.deps.json
+C:\Users\user\Desktop\Personal-projects\EmberFragrance\EmberFragrance\EmberFragrance.Core\bin\Debug\net7.0\Ember.Core.runtimeconfig.json
+C:\Users\user\Desktop\Personal-projects\EmberFragrance\EmberFragrance\EmberFragrance.Core\bin\Debug\net7.0\Ember.Core.dll
+C:\Users\user\Desktop\Personal-projects\EmberFragrance\EmberFragrance\EmberFragrance.Core\bin\Debug\net7.0\Ember.Core.pdb
+C:\Users\user\Desktop\Personal-projects\EmberFragrance\EmberFragrance\EmberFragrance.Core\bin\Debug\net7.0\Ember.Domain.dll
+C:\Users\user\Desktop\Personal-projects\EmberFragrance\EmberFragrance\EmberFragrance.Core\bin\Debug\net7.0\Ember.Infrastructure.dll
+C:\Users\user\Desktop\Personal-projects\EmberFragrance\EmberFragrance\EmberFragrance.Core\bin\Debug\net7.0\Ember.Domain.pdb
+C:\Users\user\Desktop\Personal-projects\EmberFragrance\EmberFragrance\EmberFragrance.Core\bin\Debug\net7.0\Ember.Infrastructure.pdb
+C:\Users\user\Desktop\Personal-projects\EmberFragrance\EmberFragrance\EmberFragrance.Core\obj\Debug\net7.0\Ember.Core.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Personal-projects\EmberFragrance\EmberFragrance\EmberFragrance.Core\obj\Debug\net7.0\Ember.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Personal-projects\EmberFragrance\EmberFragrance\EmberFragrance.Core\obj\Debug\net7.0\Ember.Core.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Personal-projects\EmberFragrance\EmberFragrance\EmberFragrance.Core\obj\Debug\net7.0\Ember.Core.AssemblyInfo.cs
+C:\Users\user\Desktop\Personal-projects\EmberFragrance\EmberFragrance\EmberFragrance.Core\obj\Debug\net7.0\Ember.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Personal-projects\EmberFragrance\EmberFragrance\EmberFragrance.Core\obj\Debug\net7.0\Ember.Core.csproj.CopyComplete
+C:\Users\user\Desktop\Personal-projects\EmberFragrance\EmberFragrance\EmberFragrance.Core\obj\Debug\net7.0\Ember.Core.dll
+C:\Users\user\Desktop\Personal-projects\EmberFragrance\EmberFragrance\EmberFragrance.Core\obj\Debug\net7.0\refint\Ember.Core.dll
+C:\Users\user\Desktop\Personal-projects\EmberFragrance\EmberFragrance\EmberFragrance.Core\obj\Debug\net7.0\Ember.Core.pdb
+C:\Users\user\Desktop\Personal-projects\EmberFragrance\EmberFragrance\EmberFragrance.Core\obj\Debug\net7.0\Ember.Core.genruntimeconfig.cache
+C:\Users\user\Desktop\Personal-projects\EmberFragrance\EmberFragrance\EmberFragrance.Core\obj\Debug\net7.0\ref\Ember.Core.dll

@@ -1,5 +1,8 @@
 
+using Ember.Core.IServices;
+using Ember.Core.Services;
 using Ember.Infrastructure;
+using Ember.Infrastructure.Mappings;
 using Microsoft.EntityFrameworkCore;
 
 namespace EmberFrangrance.API
@@ -18,6 +21,10 @@ namespace EmberFrangrance.API
             builder.Services.AddSwaggerGen();
             builder.Services.AddDbContext<MyDbContext>(options
                 => options.UseSqlServer(builder.Configuration.GetConnectionString("Conn")));
+
+            builder.Services.AddScoped<IEmberService, EmberService>();
+
+            builder.Services.AddAutoMapper(typeof(AutoMapperProfiles));
 
             var app = builder.Build();
 
